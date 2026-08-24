@@ -1,35 +1,46 @@
 {
-    "cuentas":[
+    "cuentas": [
         {
             "correo": "pc2@gc",
-            "pin": "N/D",
-            "derivados":[
-                {}
+            "pin": "Ny^-10(",
+            "derivados": [
+                {
+                    "otro": [],
+                    "cuentas": [],
+                    "derivados": []
+                }
             ],
-            "otro": null
+            "otro": [],
+            "cuentas": []
         },
         {
             "correo": "pc22@gc",
             "pin": "Ny^-10(^-24(K",
-            "derivados":[
-                {}
+            "derivados": [
+                {
+                    "otro": [],
+                    "cuentas": [],
+                    "derivados": []
+                }
             ],
-            "otro": null
+            "otro": [],
+            "cuentas": []
         },
         {
             "correo": "WCO@gc",
-            "pin":"Ny^-10-2291::?::^31-19-211^-16-14-129-145",
-            "derivados":[
+            "pin": "Ny^-10-2291::?::^31-19-211^-16-14-129-145",
+            "derivados": [
                 {
                     "servicio": "GitHub",
                     "usuario": "webcartaonline",
                     "pin": "Ny^-10-2291",
-                    "cuentas": null,
-                    "otro": null
+                    "cuentas": [],
+                    "otro": [],
+                    "derivados": []
                 }
             ],
-            "otro": null
-
+            "otro": [],
+            "cuentas": []
         }
     ]
 }
