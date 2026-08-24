@@ -84,22 +84,27 @@ main{
     outline: none;
 }
 
-.group-card__dot{
-    width: 30px;
-    height: 30px;
-    border-radius: 8px;
+.group-card__icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    flex: none;
 }
 
-.group-card__dot--google{
-    background: conic-gradient(from 45deg, #4285f4 0deg 90deg, #34a853 90deg 180deg, #fbbc05 180deg 270deg, #ea4335 270deg 360deg);
+.group-card__icon svg{
+    width: 24px;
+    height: 24px;
+    display: block;
 }
 
-.group-card__dot--microsoft{
-    background:
-        linear-gradient(#f25022, #f25022) 0 0/48% 48% no-repeat,
-        linear-gradient(#7fba00, #7fba00) 52% 0/48% 48% no-repeat,
-        linear-gradient(#00a4ef, #00a4ef) 0 52%/48% 48% no-repeat,
-        linear-gradient(#ffb900, #ffb900) 52% 52%/48% 48% no-repeat;
+.group-card__icon--microsoft svg{
+    width: 22px;
+    height: 22px;
 }
 
 .group-card__title{
