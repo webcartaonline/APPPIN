@@ -1,0 +1,144 @@
+{
+    "cuentas": [
+        {
+            "correo": "cp12@hc",
+            "contraseña": "NY^-10-2291::;::^-24(k:::::SW::?::",
+            "otro": null,
+            "derivados":[
+                {
+                    "servicio": "EA",
+                    "usuario": null,
+                    "pin": "NY^-10-2291",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "Discord",
+                    "usuario": null,
+                    "pin": "NY^-10(^-24(j",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "Steam",
+                    "usuario": null,
+                    "pin": null,
+                    "cuentas":[
+                        {
+                            "usuario": "onebigpapi",
+                            "pin": "NY^-10-2291"
+                        },
+                        {
+                            "usuario": "wc6dnh5z",
+                            "pin": "^-13(^-24(J::?::ny^-10-2291"
+                        }
+                    ],
+                    "otro": null
+                },
+                {
+                    "servicio": "Burguer King",
+                    "usuario": null,
+                    "pin": "^-10-2291::;::^-24(J",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "SAMSUNG",
+                    "usuario": null,
+                    "pin": "NY^-10-2291::?::",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "Ubisoft",
+                    "usuario": null,
+                    "pin": "NY^-10-2291::?::",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "Apple Music",
+                    "usuario": null,
+                    "pin": "Ny^-10-2291",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "Imagin Bank",
+                    "usuario": "-25EDghDeG8",
+                    "pin": "NyJv",
+                    "cuentas":[
+                        {
+                            "usuario": "Principal",
+                            "pin": "HIeh"
+                        },
+                        {
+                            "usuario": "Extra",
+                            "pin": "Ny"
+                        }
+                    ],
+                    "otro": null
+                },
+                {
+                    "servicio": "Revolut",
+                    "usuario": null,
+                    "pin": "NyJ",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "HP",
+                    "usuario": null,
+                    "pin": "Ny^-10-2291",
+                    "cuentas": null,
+                    "otro":[
+                        {
+                            "nombre": "Correo de impresora: ",
+                            "correo": "camilopiambahome@hpeprint.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "correo": "pc22@hc",
+            "contraseña": "NY^-10-2291::?::",
+            "otro":[
+                {
+                    "nombre": "Código: ",
+                    "codigo": "-111-26-10-19::-::7F3-10-11::-::-22iH3-13::-::-25f3-26-10::-::-10-26-26-19-20"
+                }
+            ],
+            "derivados":[
+                {
+                    "servicio": "Tidal",
+                    "usuario": null,
+                    "pin": "NY^-10-2291::?::",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "Trade Republic",
+                    "usuario": null,
+                    "pin": "Ny",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "BBVA",
+                    "usuario": "CEfiCDfi5",
+                    "pin": "Ny^-13^-24",
+                    "cuentas": null,
+                    "otro": null
+                },
+                {
+                    "servicio": "GitHub",
+                    "usuario": "CamiloPiamba22",
+                    "pin": "NyJy",
+                    "cuentas": null,
+                    "otro": null
+                }
+            ]
+        }
+    ]
+}

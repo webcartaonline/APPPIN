@@ -1,0 +1,35 @@
+{
+    "cuentas":[
+        {
+            "correo": "pc2@gc",
+            "pin": "N/D",
+            "derivados":[
+                {}
+            ],
+            "otro": null
+        },
+        {
+            "correo": "pc22@gc",
+            "pin": "N/D",
+            "derivados":[
+                {}
+            ],
+            "otro": null
+        },
+        {
+            "correo": "WCO@gc",
+            "pin":"Ny^-10-2291::?::^31-19-211^-16-14-129-145",
+            "derivados":[
+                {
+                    "servicio": "GitHub",
+                    "usuario": "webcartaonline",
+                    "pin": "Ny^-10-2291",
+                    "cuentas": null,
+                    "otro": null
+                }
+            ],
+            "otro": null
+
+        }
+    ]
+}
