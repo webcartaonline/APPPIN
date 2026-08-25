@@ -24,17 +24,22 @@
                     "derivados": [],
                     "usuario": "Camilo Piamba",
                     "pin": "NY^-10-2291"
+                },
+                {
+                    "servicio": "Zoom",
+                    "otro": [],
+                    "cuentas": [],
+                    "derivados": []
+                },
+                {
+                    "servicio": "Claude",
+                    "otro": [],
+                    "cuentas": [],
+                    "derivados": []
                 }
             ],
             "otro": [],
-            "cuentas": [
-                {
-                    "campo": "Zoom"
-                },
-                {
-                    "campo": "Claude"
-                }
-            ]
+            "cuentas": []
         },
         {
             "correo": "WCO@gc",
