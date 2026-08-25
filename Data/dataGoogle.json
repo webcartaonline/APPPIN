@@ -26,15 +26,18 @@
                     "pin": "NY^-10-2291"
                 },
                 {
-                    "servicio": "Zoom",
-                    "otro": [],
-                    "cuentas": [],
-                    "derivados": []
-                },
-                {
-                    "servicio": "Claude",
-                    "otro": [],
-                    "cuentas": [],
+                    "servicio": "Inicio de sesión con Google",
+                    "otro": [
+                        {
+                            "nota": "Sesión iniciada con la cuenta de Google"
+                        }
+                    ],
+                    "cuentas": [
+                        {
+                            "cuenta1": "Zoom",
+                            "cuenta2": "Claude"
+                        }
+                    ],
                     "derivados": []
                 }
             ],
@@ -51,6 +54,16 @@
                     "pin": "Ny^-10-2291",
                     "cuentas": [],
                     "otro": [],
+                    "derivados": []
+                },
+                {
+                    "servicio": "Inicio de sesión con cuenta de Google",
+                    "otro": [],
+                    "cuentas": [
+                        {
+                            "cuenta1": "Visual Studio Code"
+                        }
+                    ],
                     "derivados": []
                 }
             ],
