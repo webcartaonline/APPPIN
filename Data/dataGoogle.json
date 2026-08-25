@@ -34,8 +34,10 @@
                     ],
                     "cuentas": [
                         {
-                            "cuenta1": "Zoom",
-                            "cuenta2": "Claude"
+                            "usuario": "Claude"
+                        },
+                        {
+                            "usuario": "Zoom"
                         }
                     ],
                     "derivados": []
@@ -61,7 +63,7 @@
                     "otro": [],
                     "cuentas": [
                         {
-                            "cuenta1": "Visual Studio Code"
+                            "usuario": "Visual Studio Code"
                         }
                     ],
                     "derivados": []
