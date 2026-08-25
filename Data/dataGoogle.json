@@ -3,13 +3,7 @@
         {
             "correo": "pc2@gc",
             "pin": "Ny^-10(",
-            "derivados": [
-                {
-                    "otro": [],
-                    "cuentas": [],
-                    "derivados": []
-                }
-            ],
+            "derivados": [],
             "otro": [],
             "cuentas": []
         },
@@ -34,10 +28,12 @@
                     ],
                     "cuentas": [
                         {
-                            "usuario": "Claude"
+                            "usuario": "Claude",
+                            "servicio": "Claude"
                         },
                         {
-                            "usuario": "Zoom"
+                            "usuario": "Zoom",
+                            "servicio": "Zoom"
                         }
                     ],
                     "derivados": []
