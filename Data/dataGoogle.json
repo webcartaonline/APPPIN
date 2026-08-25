@@ -28,12 +28,10 @@
                     ],
                     "cuentas": [
                         {
-                            "usuario": "Claude",
-                            "servicio": "Claude"
+                            "usuario": "Claude"
                         },
                         {
-                            "usuario": "Zoom",
-                            "servicio": "Zoom"
+                            "usuario": "Zoom"
                         }
                     ],
                     "derivados": []
