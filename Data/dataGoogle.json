@@ -18,13 +18,23 @@
             "pin": "Ny^-10(^-24(K",
             "derivados": [
                 {
+                    "servicio": "Discord",
                     "otro": [],
                     "cuentas": [],
-                    "derivados": []
+                    "derivados": [],
+                    "usuario": "Camilo Piamba",
+                    "pin": "NY^-10-2291"
                 }
             ],
             "otro": [],
-            "cuentas": []
+            "cuentas": [
+                {
+                    "campo": "Zoom"
+                },
+                {
+                    "campo": "Claude"
+                }
+            ]
         },
         {
             "correo": "WCO@gc",
